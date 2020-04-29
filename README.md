@@ -15,3 +15,5 @@ the moto of this project is to scrape all the data on grofers daily essenetials 
 3.Discounted Price(if any)
 4.Price For Club Members(if any)
 5.Varients(EX. 10 kg, 5Kg, etc. and their information also)
+
+# In the code there is a segment which is showing error after executing it because i have stopped the kernel in between.
